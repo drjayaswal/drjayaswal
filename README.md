@@ -1,147 +1,75 @@
-<h1 align="center">Hi 👋, I'm Dhruv Ratan Jayaswal</h1>
-<h3 align="center">A Fullstack Developer with a DevOps Mindset</h3>
-
----
-
-### 🚀 About Me
-
-- 🧠 Currently diving deep into **DevOps** and **Cloud Computing**
-- 💼 Passionate about building scalable systems and deploying modern web applications
-- 🛠️ I specialize in the **MERN stack**, **Java**, **Redis**, **Docker**, and **Kubernetes**
-- 🌐 Certified in Meta Full Stack, MongoDB, React, Node.js, and more
-- 🧩 Constantly experimenting, learning, and deploying!
-
----
-
-### 🛠 Tech Stack
-
-- **Languages**: Java, JavaScript, TypeScript, Python, C++
-- **Frontend**: React, Next.js, TailwindCSS, Bootstrap
-- **Backend**: Node.js, Express.js, REST APIs, GraphQL
-- **Databases**: MongoDB, MySQL, Redis
-- **DevOps / Cloud**: AWS, Docker, Kubernetes, YAML
-- **Tools**: Git, GitHub, Postman, Mongoose, JWT, ESLint, Nginx
-
----
-
-### 💼 Notable Projects
-
-| Project | Description | Tech Highlights |
-|--------|-------------|-----------------|
-| [Versel 2.0](https://github.com/drjayaswal/Versel-2.0) | Cloud-based app deployment platform | AWS, Redis, PostgreSQL, Docker, Node |
-| [Versel (DLMU)](https://github.com/drjayaswal/DLMU) | Scalable deployment automation system | ESLint, PostCSS, Google Maps API |
-| [Uber Replica](https://github.com/drjayaswal/Uber) | UI + backend of Uber clone | React, Google Maps API, Node.js |
-| [Spotify Clone](https://github.com/drjayaswal/DeCoy) | Audio streaming interface | React, Bootstrap, API integration |
-| [Symphony](https://wibble.netlify.app/) | Built in under 1 hour as a challenge | HTML, JS (Quick App Build) |
-
----
-
-### 📜 Certifications
-
-- ✅ **Frontend** – Hackerrank  
-- ✅ **Full Stack** – Meta (Facebook)  
-- ✅ **MongoDB** – MongoDB University  
-- ✅ **Node.js** – SimpliLearn  
-- ✅ **React.js** – Scaler  
-- ✅ **JavaScript** – Hackerrank  
-
----
-
-### 🧠 Soft Skills
-
-> Problem Solver • Adaptable • Team Player • Detail-Oriented  
-> Excellent Communicator • Optimistic • Humorous • Hardworking
-
----
-
-### 📫 Let's Connect
-
-- 🔗 GitHub: [@drjayaswal](https://github.com/drjayaswal)
-- 🔗 LeetCode: [drjayaswal](https://leetcode.com/drjayaswal/)
-- 📧 Email: mrdhruv.professional@gmail.com
-- ☎️ Phone: +91-6377257649
-
----
-
----
-
-### 📊 GitHub Stats & Activity
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=3b82f6&center=true&vCenter=true&width=600&lines=Dhruv+Ratan+Jayaswal;Backend+Developer;DevOps+Enthusiast" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=drjayaswal&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=drjayaswal&theme=radical" />
+  <strong>"Anything that can go wrong, will go wrong." — Murphy's Law</strong><br>
+  <em>(Which is why I build resilient systems to handle it.)</em>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=drjayaswal&theme=tokyonight" />
+  <a href="https://www.linkedin.com/in/drjayaswal/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:mrdhruv.professional@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://leetcode.com/drjayaswal/"><img src="https://img.shields.io/badge/LeetCode-Solve-orange?style=for-the-badge&logo=leetcode"></a>
 </p>
 
 ---
 
-### 🔥 Fun Facts
+### ⚡ About Me
 
-- 🧪 Built my first project in **1 hour** as a challenge!
-- 🌍 My goal is to contribute to open source projects.
-- 🎯 Favorite Quote: *“Code is like humor. When you have to explain it, it’s bad.”*
+I am a **Backend Developer** and a **DevOps Novice** on a mission to build scalable, high-performance web applications. My journey involves bridging the gap between clean code and seamless deployment.
+
+* 🔭 **Currently working on:** Refining **Versel 2.0**, a cloud-native deployment engine.
+* 🌱 **Learning:** Advanced Kubernetes orchestration and Cloud Security.
+* 💬 **Ask me about:** Java, Node.js, and why Redis is my favorite tool in the stack.
+* 🚀 **Fun Fact:** I once built a functional app ("Symphony") in under 60 minutes.
 
 ---
 
-### 📬 Let’s Connect
+### 🛠️ Technical Arsenal
 
-<p align="center">
-  <a href="mailto:mrdhruv.professional@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail">
-  </a>
-  <a href="https://github.com/drjayaswal">
-    <img src="https://img.shields.io/badge/GitHub-@drjayaswal-black?style=for-the-badge&logo=github">
-  </a>
-  <a href="https://leetcode.com/drjayaswal/">
-    <img src="https://img.shields.io/badge/LeetCode-@drjayaswal-orange?style=for-the-badge&logo=leetcode">
-  </a>
-  <a href="https://www.linkedin.com/in/drjayaswal/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-  </a>
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | `Java` `JavaScript` `TypeScript` `Python` `C++` |
+| **Backend** | `Node.js` `Express.js` `REST APIs` `GraphQL` `Mongoose` |
+| **Frontend** | `React` `Next.js` `TailwindCSS` `Bootstrap` |
+| **DevOps & Cloud** | `Docker` `Kubernetes` `AWS` `Nginx` `YAML` |
+| **Databases** | `MongoDB` `Redis` `PostgreSQL` `MySQL` |
+| **Workflow** | `Git` `GitHub Actions` `Postman` `JWT` `ESLint` |
+
+---
+
+### 🚀 Featured Projects
+
+#### [Versel 2.0](https://github.com/drjayaswal/Versel-2.0) | *System Design & Cloud*
+> A custom-built deployment platform mimicking Vercel's core logic.
+* **Key Tech:** AWS (S3/ECS), Redis (Pub/Sub), Docker, Node.js.
+* **Outcome:** Successfully automated the build-to-deploy pipeline for frontend projects.
+
+#### [Uber Replica](https://github.com/drjayaswal/Uber) | *Full Stack*
+> A high-fidelity UI/UX clone with real-time location features.
+* **Key Tech:** React, Google Maps API, Node.js.
+
+---
+
+### 🏆 Certifications
+
+<p align="left">
+  <a href="https://coursera.org/verify/SBTQE4B7FH2N"><img src="https://img.shields.io/badge/Fullstack-META-blue?style=flat-square&logo=meta" /></a>
+  <a href="https://learn.mongodb.com/c/Skb-d5OCQ8y4GHbuDsWTWA"><img src="https://img.shields.io/badge/Database-MongoDB-13AA52?style=flat-square&logo=mongodb" /></a>
+  <a href="https://www.hackerrank.com/certificates/7eaabcf8e17b"><img src="https://img.shields.io/badge/Frontend-Hackerrank-2EC866?style=flat-square&logo=hackerrank" /></a>
+  <a href="https://simpli-web.app.link/e/kp4KzLHQMLb"><img src="https://img.shields.io/badge/Node.js-SimpliLearn-339933?style=flat-square&logo=node.js" /></a>
 </p>
 
 ---
 
-### 📜 Certifications & Portfolio
+### 📊 GitHub Activity
 
 <p align="center">
-  <a href="https://www.hackerrank.com/certificates/7eaabcf8e17b">
-    <img src="https://img.shields.io/badge/Frontend-Hackerrank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Frontend Hackerrank" />
-  </a>
-  <a href="https://coursera.org/verify/SBTQE4B7FH2N">
-    <img src="https://img.shields.io/badge/Fullstack-META-blue?style=for-the-badge&logo=meta&logoColor=white" alt="Meta Fullstack" />
-  </a>
-  <a href="https://learn.mongodb.com/c/Skb-d5OCQ8y4GHbuDsWTWA">
-    <img src="https://img.shields.io/badge/Database-MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Certified" />
-  </a>
-  <a href="https://simpli-web.app.link/e/kp4KzLHQMLb">
-    <img src="https://img.shields.io/badge/Node.js-SimpliLearn-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  </a>
-  <a href="https://moonshot.scaler.com/s/li/TNqI03oOux">
-    <img src="https://img.shields.io/badge/React.js-Scaler-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js" />
-  </a>
-  <a href="https://www.hackerrank.com/certificates/4636c4648f6d">
-    <img src="https://img.shields.io/badge/JavaScript-Hackerrank-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Hackerrank" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=drjayaswal&theme=tokyonight" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drjayaswal&layout=compact&theme=tokyonight" width="300" />
 </p>
-
----
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=3b82f6&center=true&vCenter=true&width=380&lines=Thanks+for+visiting+my+profile!;Let's+build+something+awesome+together!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=3b82f6&center=true&vCenter=true&width=380&lines=Thanks+for+visiting!;Let's+build+something+epic!" />
 </p>
-
-
----
-
-### 🤖 Can You Guess My Stack?
-
-🧩 Frontend: ⚛️ + 🎨 + 🧵  
-🛠 Backend: 🌲 + 🧬 + 🔁  
-🗄 Database: 🍃 + 🐬 + 💾  
-☁️ Cloud: 🐳 + ☁️ + 📦  
-
----
